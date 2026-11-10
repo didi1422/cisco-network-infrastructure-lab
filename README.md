@@ -35,3 +35,9 @@ O laboratório representa uma infraestrutura corporativa com:
 Utilizar a simulação como ferramenta de revisão técnica, documentação e aprimoramento de conhecimentos em infraestrutura de redes corporativas.
 
 **Status:** Em desenvolvimento.
+
+Para visualizar e interagir com o laboratório, é necessário ter o Cisco Packet Tracer instalado.
+
+Download: https://www.netacad.com/cisco-packet-tracer
+
+O arquivo .pkt está disponível neste repositório.
